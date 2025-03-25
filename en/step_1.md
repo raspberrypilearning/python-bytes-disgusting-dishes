@@ -1,42 +1,51 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+<h2 class="c-project-heading--task">Print Hello</h2>
 
-A brief description - one or two sentences. 
+--- task ---
 
---- print-only ---
-![ALT TEXT](images/IMAGE.png)
---- /print-only ---
+➡️ Display the word 'Hello' on the screen
 
---- no-print ---
+--- /task ---
 
-Editor embed 
+In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
 
---- /no-print ---
+Type the code to `print()`{:.language-python} Hello to the screen:
 
---- no-print ---
-Video embed
+<div class="c-project-code">
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 10
+line_highlights: 11
+---
+# Put code to run under here.
+print(f'Hello')
+--- /code ---
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
+**Test:** Click the **Run** button. 
+This is what you should see when you run your code.
 
-### You will need:
-- a
-- b
-- c
+<div class="c-project-output">
+```
+Hello
+```
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+When you type an opening bracket `(`{:.language-python} the code editor will automatically add a closing bracket `)`{:.language-python} 
+This also happens when you type an opening apostrophe `'`{:.language-python}.
+
+</div>
+
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+If you get an error then check your code really carefully. Check there are single quotes around `Hello`{:.language-python} so Python knows it is meant to be text.
+
+</div>
