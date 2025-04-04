@@ -26,7 +26,7 @@ print('It looked around and said, "Is it snack time yet? 😋"')
 </div>
 
 <div class="c-project-output">
-A giant broccoli walked into the field. 🥦</br>
+A giant broccoli walked into the field. 🥦 <br />
 It looked around and said, "Is it snack time yet? 😋"
 </div>
 
