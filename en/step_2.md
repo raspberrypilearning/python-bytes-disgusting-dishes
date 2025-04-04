@@ -7,7 +7,7 @@ Make the broccoli say something surprising!
 
 Let’s make the broccoli say something out loud!  
 When you want to show someone speaking in your story, use double quotes `" "`{:.language-python} inside the single quotes `' '`{:.language-python}.  
-This helps Python know where the sentence starts and where the speech begins and ends.
+This helps the reader where the speech begins and ends.
 
 You can also add an emoji to your speech to make it funnier!
 
@@ -26,7 +26,7 @@ print('It looked around and said, "Is it snack time yet? 😋"')
 </div>
 
 <div class="c-project-output">
-A giant broccoli walked into the field. 🥦  
+A giant broccoli walked into the field. 🥦
 It looked around and said, "Is it snack time yet? 😋"
 </div>
 
