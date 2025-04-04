@@ -46,9 +46,9 @@ One kid shouted, That's not my broccoli! 🤢
 ### Tip
 
 Try using a different reaction and emoji! Some ideas:  
-"That’s disgusting! 🤮"  
-"Eww, what even is that? 👃"  
-"Run away! 🏃💨"
+- "That’s disgusting! 🤮"  
+- "Eww, what's that? 👃"  
+- "It's coming for us... run 🏃💨"
 
 </div>
 
