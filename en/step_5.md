@@ -28,7 +28,7 @@ Then the broccoli did a cartwheel and shouted, 'Veggies rule!' ✨
 
 ### Tip
 
-Your ending can be funny, surprising, or completely weird! Try these emojis:  
+Your ending can be funny, surprising, or completely weird! Try these emojis:  <br />
 💃 🤸 ✨ 🕺 🥇 🍕 🎯
 
 </div>
