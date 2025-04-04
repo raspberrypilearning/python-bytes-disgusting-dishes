@@ -14,3 +14,6 @@ steps:
       - engaged
   - title: step 3
   - title: step 4
+    completion:
+      - internal
+      - external
