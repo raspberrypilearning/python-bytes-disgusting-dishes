@@ -30,7 +30,7 @@ All the kids gasped. 😲
 
 ### Tip
 
-You can use emoji to show how surprised they are! Try these:  
+You can use emoji to show how surprised they are! Try these: <br /> 
 😱 😮 🤯 🏃 💨 😲
 
 </div>

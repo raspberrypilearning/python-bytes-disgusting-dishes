@@ -34,7 +34,7 @@ It looked around and said, "Is it snack time yet? 😋"
 
 ### Tip
 
-Try adding your own emoji to show how the broccoli is feeling:  
+Try adding your own emoji to show how the broccoli is feeling:  <br />
 😋 🤔 😱 😄 🗯️
 
 </div>

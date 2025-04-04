@@ -28,8 +28,8 @@ A giant broccoli walked into the field. 🥦
 
 ### Tip
 
-You don't have to use broccoli! Try something like a dinosaur, banana, or robot.  
-Here are some extra emojis to copy and paste:  
+You don't have to use broccoli! Try something like a dinosaur, banana, or robot. <br /> 
+Here are some extra emojis to copy and paste:  <br />
 🥦 🦕 🍌 🤖 🦄 🐸 🧀
 
 </div>
