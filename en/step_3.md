@@ -1,22 +1,36 @@
-## What can you do now?
+<h2 class="c-project-heading--task">Reactions!</h2>
+--- task ---
+Make someone react to the broccoli’s question.
+--- /task ---
 
-If you are following the [PATH NAME](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [NEXT PROJECT/PATH NAME](https://projects.raspberrypi.org/en/projects/PROJECT-SLUG) project. In this project, you will do DESCRIPTION.
+<h2 class="c-project-heading--explainer">What do the kids do?</h2>
 
------- OR ---------
+Keep building the story by adding another line. How would people react to a talking broccoli?
 
-Try our [PROJECT/PATH NAME](https://projects.raspberrypi.org/en/collections/PATH-SLUG) project pathway where you will DESCRIPTION.
+<div class="c-project-code">
+--- code ---
+---
+language: python
+filename: story.py
+line_numbers: true
+line_number_start: 3
+line_highlights: 3
+---
+print('A giant broccoli walked into the field. 🥦')
+print('It looked around and said, "Is it snack time yet?"')
+print('All the kids gasped.')
+--- /code ---
+</div>
 
---- print-only --- 
+<div class="c-project-output">
+All the kids gasped.
+</div>
 
-![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
+<div class="c-project-callout c-project-callout--tip">
 
---- /print-only ---
+### Tip
 
---- no-print ---
+You can use emoji to show how surprised they are! Try these:  
+😱 😮 🤯 🏃 💨
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-
---- /no-print ---
-
-Or, why not try out another [CODING_LANGUAGE](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
+</div>

@@ -1,44 +1,35 @@
-<h2 class="c-project-heading--task">Print Hello</h2>
-
+<h2 class="c-project-heading--task">Say Something Silly!</h2>
 --- task ---
-
-➡️ Display the word 'Hello' on the screen
-
+Use the `print()` function to make your computer tell a silly story. Add emojis for extra fun!
 --- /task ---
 
-In Python, `print()`{:.language-python} outputs strings (words or numbers) to the screen.
+<h2 class="c-project-heading--explainer">The story begins</h2>
 
-Type the code to `print()`{:.language-python} Hello to the screen:
+Let’s tell the computer to say something funny using `print()`{:.language-python}. You can use words, punctuation, and even emojis!
 
 <div class="c-project-code">
 --- code ---
 ---
 language: python
+filename: story.py
 line_numbers: true
-line_number_start: 10
-line_highlights: 11
+line_number_start: 1
+line_highlights: 1
 ---
-# Put code to run under here.
-print(f'Hello')
+print('A giant broccoli walked into the field. 🥦')
 --- /code ---
-
 </div>
 
-**Test:** Click the **Run** button. 
-This is what you should see when you run your code.
-
 <div class="c-project-output">
-```
-Hello
-```
+A giant broccoli walked into the field. 🥦
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-When you type an opening bracket `(`{:.language-python} the code editor will automatically add a closing bracket `)`{:.language-python} 
-This also happens when you type an opening apostrophe `'`{:.language-python}.
+You can copy and paste these emojis into your story:  
+🥦 🐶 🤖 👽 😎 ✨ 🐉
 
 </div>
 
@@ -46,6 +37,6 @@ This also happens when you type an opening apostrophe `'`{:.language-python}.
 
 ### Debugging
 
-If you get an error then check your code really carefully. Check there are single quotes around `Hello`{:.language-python} so Python knows it is meant to be text.
+If you get an error, check your code carefully. Make sure there are single quotes around your message like `'Hello'`{:.language-python}, and that your `print()`{:.language-python} has brackets.
 
 </div>

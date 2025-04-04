@@ -1,11 +1,16 @@
-title: default-project-template
+title: "Make Me Giggle 🧠🖥️🧁"
 hero_image: images/banner.png
-description: default-project-template description
+description: Write a short, silly story using Python and emoji with print statements.
+meta_title: Python coding projects for kids and teens | Make Me Giggle
+meta_description: Learn Python with the Raspberry Pi Foundation. Use `print()` to write your first funny Python story filled with characters, surprises, and emoji — ideal for beginners.
 version: 1
 listed: false
 copyedit: false
-last_tested: "2025-01-01"
+last_tested: "2025-04-04"
 steps:
-  - title: What you will make
-  - title: Step title
-  - title: What can you do now?
+  - title: step 1
+  - title: step 2
+    completion:
+      - engaged
+  - title: step 3
+  - title: step 4
