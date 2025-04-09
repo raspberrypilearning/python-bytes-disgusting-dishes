@@ -1,11 +1,13 @@
-<h2 class="c-project-heading--task">Add a reaction</h2>
+<h2 class="c-project-heading--task">Use an apostrophe</h2>
 --- task ---
-Make the children react to the strange interruption.
+Print a sentence that includes an apostrophe by using double quotes to surround it.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">Surprise!</h2>
+<h2 class="c-project-heading--explainer">Apostrophes in action</h2>
 
-Add another line to continue the story and show how the kids responded.
+Apostrophes can be useful in writing.
+
+To include an apostrophe in a string, you can surround the sentence with **double quotes**.
 
 <div class="c-project-code">
 --- code ---
@@ -16,22 +18,31 @@ line_numbers: true
 line_number_start: 4
 line_highlights: 4
 ---
-print('It was a sunny day at the park. 🌳')
-print('Three kids were sitting on a big picnic blanket, eating jam sandwiches. 🧺🥪')
-print('A squirrel appeared and shouted, "Give that back!" 🐿️')
-print('All three kids gasped loudly. 😲')
+print("One kid's sandwich had already disappeared.")
 --- /code ---
 </div>
 
 <div class="c-project-output">
-All three kids gasped loudly. 😲
+One kid's sandwich had already disappeared.
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Try using these emojis:<br />
-😱 😧 😮 🏃‍♂️ 🏃‍♀️
+Use **double quotes** around a sentence if it includes an apostrophe.<br />
+For example:<br />
+- "That's mine!"<br />
+- "Jess's sandwich was gone."
+
+</div>
+
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+If you get an error, check that:<br />
+- You used double quotes around the whole string<br />
+- You didn’t accidentally end the sentence too early with an apostrophe
 
 </div>
