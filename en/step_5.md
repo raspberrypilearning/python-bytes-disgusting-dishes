@@ -13,13 +13,12 @@ Finish your story with something silly or surprising.
 language: python
 filename: picnic.py
 line_numbers: true
-line_number_start: 6
+line_number_start: 1
 line_highlights: 6
 ---
 print('It was a sunny day at the park. 🌳')
 print('Three kids were sitting on a big picnic blanket, eating jam sandwiches. 🧺🥪')
 print('A squirrel appeared and shouted, "Give that back!" 🐿️')
-print('All three kids gasped loudly. 😲')
 print("One kid's sandwich had already disappeared.")
 print('Another kid yelled, "That\'s mine!"')
 print('Then a seagull swooped down and stole the rest! 🐦💨')
@@ -35,8 +34,8 @@ Then a seagull swooped down and stole the rest! 🐦💨
 ### Tip
 
 Try these endings:<br />
-'A robot hoovered up the picnic.' 🤖<br />
-'Someone screamed and ran in circles.' 🏃‍♀️💨<br />
-'A goat was chewing on the blanket.' 🐐🧺
+- 'A robot hoovered up the picnic.' 🤖<br />
+- 'Someone screamed and ran in circles.' 🏃‍♀️💨<br />
+- 'A goat was chewing on the blanket.' 🐐🧺
 
 </div>

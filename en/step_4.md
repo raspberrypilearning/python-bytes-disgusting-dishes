@@ -15,13 +15,9 @@ This tells Python to treat the apostrophe as part of the text, not the end of th
 language: python
 filename: picnic.py
 line_numbers: true
-line_number_start: 6
-line_highlights: 6
+line_number_start: 4
+line_highlights: 5
 ---
-print('It was a sunny day at the park. 🌳')
-print('Three kids were sitting on a big picnic blanket, eating jam sandwiches. 🧺🥪')
-print('A squirrel appeared and shouted, "Give that back!" 🐿️')
-print('All three kids gasped loudly. 😲')
 print("One kid's sandwich had already disappeared.")
 print('Another kid yelled, "That\'s mine!"')
 --- /code ---

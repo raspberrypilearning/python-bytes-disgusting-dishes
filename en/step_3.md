@@ -7,7 +7,7 @@ Print a sentence that includes an apostrophe by using double quotes to surround 
 
 Apostrophes can be useful in writing.
 
-To include an apostrophe in a string, you can surround the sentence with **double quotes**.
+To include an apostrophe in a string, you can surround the sentence with **double quotes** `"` instead of single quotes `'`.
 
 <div class="c-project-code">
 --- code ---

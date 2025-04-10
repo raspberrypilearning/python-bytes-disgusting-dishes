@@ -14,7 +14,7 @@ language: python
 filename: picnic.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 1
+line_highlights: 1-2
 ---
 print('It was a sunny day at the park. 🌳')
 print('Three kids were sitting on a big picnic blanket, eating jam sandwiches. 🧺🥪')

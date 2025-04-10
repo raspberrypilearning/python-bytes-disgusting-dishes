@@ -5,7 +5,7 @@ Make someone say something by using quotes inside your print statement.
 
 <h2 class="c-project-heading--explainer">What did they say?</h2>
 
-Use double quotes inside single quotes, or the other way around, to show someone speaking.
+Use double quotes inside single quotes, to show someone speaking.
 
 <div class="c-project-code">
 --- code ---
@@ -13,7 +13,7 @@ Use double quotes inside single quotes, or the other way around, to show someone
 language: python
 filename: picnic.py
 line_numbers: true
-line_number_start: 3
+line_number_start: 1
 line_highlights: 3
 ---
 print('It was a sunny day at the park. 🌳')
@@ -42,7 +42,7 @@ Try different visitors:<br />
 ### Debugging
 
 Check that:<br />
-- You use both kinds of quotes correctly: `' "words" '` or `" 'words' "`<br />
-- You didn’t forget a closing quote or bracket
+- You use both kinds of quotes correctly: `' "words" '`<br />
+- You didn’t forget to close all quotes or brackets
 
 </div>
