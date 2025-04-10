@@ -13,7 +13,7 @@ To include an apostrophe in a string, you can surround the sentence with **doubl
 --- code ---
 ---
 language: python
-filename: picnic.py
+filename: main.py
 line_numbers: true
 line_number_start: 4
 line_highlights: 4

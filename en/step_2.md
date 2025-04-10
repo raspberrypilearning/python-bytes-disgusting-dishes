@@ -11,7 +11,7 @@ Use double quotes inside single quotes, to show someone speaking.
 --- code ---
 ---
 language: python
-filename: picnic.py
+filename: main.py
 line_numbers: true
 line_number_start: 1
 line_highlights: 3

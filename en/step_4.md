@@ -13,7 +13,7 @@ This tells Python to treat the apostrophe as part of the text, not the end of th
 --- code ---
 ---
 language: python
-filename: picnic.py
+filename: main.py
 line_numbers: true
 line_number_start: 4
 line_highlights: 5

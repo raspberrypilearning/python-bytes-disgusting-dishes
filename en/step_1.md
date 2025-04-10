@@ -11,7 +11,7 @@ Let’s start by telling the computer where the kids are and what they’re doin
 --- code ---
 ---
 language: python
-filename: picnic.py
+filename: main.py
 line_numbers: true
 line_number_start: 1
 line_highlights: 1-2
