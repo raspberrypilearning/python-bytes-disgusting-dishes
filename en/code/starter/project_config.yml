@@ -1,4 +1,4 @@
-name: "Python bytes - Picnic Panic"
+name: "Python bytes - Picnic panic"
 identifier: "python-bytes-picnic-panic"
 type: 'python'
 build: true
