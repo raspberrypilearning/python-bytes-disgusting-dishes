@@ -1,34 +1,41 @@
-<h2 class="c-project-heading--task">Finish your story</h2>
+<h2 class="c-project-heading--task">End your story</h2>
 --- task ---
-Add one more line to give your story a funny ending!
+Add a final funny line to complete your picnic story.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">The punchline!</h2>
+<h2 class="c-project-heading--explainer">Picnic panic!</h2>
 
-Every great story needs a great ending. Let’s make it unexpected and funny. Maybe the broccoli does something amazing?
+Finish your story with something silly or surprising.
 
 <div class="c-project-code">
 --- code ---
 ---
 language: python
-filename: story.py
+filename: main.py
 line_numbers: true
-line_number_start: 5
-line_highlights: 5
+line_number_start: 1
+line_highlights: 6
 ---
-print("Then the broccoli did a cartwheel and shouted, 'Veggies rule!' ✨")
+print('It was a sunny day at the park. 🌳')
+print('Three kids were sitting on a big picnic blanket, eating jam sandwiches. 🧺🥪')
+print('A squirrel appeared and shouted, "Give that back!" 🐿️')
+print("One kid's sandwich had already disappeared.")
+print('Another kid yelled, "That\'s mine!"')
+print('Then a seagull swooped down and stole the rest! 🐦💨')
 --- /code ---
 </div>
 
 <div class="c-project-output">
-Then the broccoli did a cartwheel and shouted, 'Veggies rule!' ✨
+Then a seagull swooped down and stole the rest! 🐦💨
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Your ending can be funny, surprising, or completely weird! Try these emojis:  <br />
-💃 🤸 ✨ 🕺 🥇 🍕 🎯
+Try these endings:<br />
+- 'A robot hoovered up the picnic.' 🤖<br />
+- 'Someone screamed and ran in circles.' 🏃‍♀️💨<br />
+- 'A goat was chewing on the blanket.' 🐐🧺
 
 </div>

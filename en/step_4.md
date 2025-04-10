@@ -1,54 +1,38 @@
-<h2 class="c-project-heading--task">Add an apostrophe</h2>
+<h2 class="c-project-heading--task">Escape the apostrophe</h2>
 --- task ---
-Make your story use a word with an apostrophe, like “it’s” or “don’t”.
+Add a sentence that contains an apostrophe inside speech by using an escape character.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">Using apostrophes in speech</h2>
+<h2 class="c-project-heading--explainer">Escaping confusion!</h2>
 
-When your text includes an apostrophe `'`{:.language-python}, like in the word `"don’t"` or `"it’s"`, you should use **double quotes** around your whole message.
+If you want to use an apostrophe **inside** speech, you can escape it using a backslash `\`.
 
-For example:
-
-<div class="c-project-code">
---- code ---
----
-language: python
-filename: example.py
-line_numbers: false
----
-print("It's time to go!")
---- /code ---
-</div>
-
-If you use single quotes for both the message and the apostrophe, Python gets confused.
-
-Now let’s add a line to your story with an apostrophe:
+This tells Python to treat the apostrophe as part of the text, not the end of the string.
 
 <div class="c-project-code">
 --- code ---
 ---
 language: python
-filename: story.py
+filename: main.py
 line_numbers: true
 line_number_start: 4
-line_highlights: 4
+line_highlights: 5
 ---
-print("One kid shouted, That's not my broccoli! 🤢")
+print("One kid's sandwich had already disappeared.")
+print('Another kid yelled, "That\'s mine!"')
 --- /code ---
 </div>
 
 <div class="c-project-output">
-One kid shouted, That's not my broccoli! 🤢
+Another kid yelled, "That's mine!"
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Try using a different reaction and emoji! Some ideas:  
-- "That’s disgusting! 🤮"  
-- "Eww, what's that? 👃"  
-- "It's coming for us... run 🏃💨"
+Use `\'` inside a string to include an apostrophe without ending it too early.<br />
+For example: `'That\'s funny!'` or `'Don\'t touch that!'`
 
 </div>
 
@@ -56,8 +40,8 @@ Try using a different reaction and emoji! Some ideas:
 
 ### Debugging
 
-If you see an error like *SyntaxError: invalid syntax*, check that:
-- You used double quotes around the whole sentence: `"That's weird"`{:.language-python}
-- You didn’t accidentally use single quotes and an apostrophe, like `'That's bad'`{:.language-python} (this breaks your code)
+If you get a *SyntaxError*, check that:<br />
+- You used the backslash before the apostrophe<br />
+- All your quotes are properly paired
 
 </div>

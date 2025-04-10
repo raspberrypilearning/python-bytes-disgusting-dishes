@@ -1,41 +1,39 @@
-<h2 class="c-project-heading--task">Add another line</h2>
+<h2 class="c-project-heading--task">Add some speech</h2>
 --- task ---
-Make the broccoli say something surprising!
+Make someone say something by using quotes inside your print statement.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">Talking vegetables?!</h2>
+<h2 class="c-project-heading--explainer">What did they say?</h2>
 
-Let’s make the broccoli say something out loud!  
-When you want to show someone speaking in your story, use double quotes `" "`{:.language-python} inside the single quotes `' '`{:.language-python}.  
-This helps the reader where the speech begins and ends.
-
-You can also add an emoji to your speech to make it funnier!
+Use double quotes inside single quotes, to show someone speaking.
 
 <div class="c-project-code">
 --- code ---
 ---
 language: python
-filename: story.py
+filename: main.py
 line_numbers: true
-line_number_start: 2
-line_highlights: 2
+line_number_start: 1
+line_highlights: 3
 ---
-print('A giant broccoli walked into the field. 🥦')
-print('It looked around and said, "Is it snack time yet? 😋"')
+print('It was a sunny day at the park. 🌳')
+print('Three kids were sitting on a big picnic blanket, eating jam sandwiches. 🧺🥪')
+print('A squirrel appeared and shouted, "Give that back!" 🐿️')
 --- /code ---
 </div>
 
 <div class="c-project-output">
-A giant broccoli walked into the field. 🥦 <br />
-It looked around and said, "Is it snack time yet? 😋"
+A squirrel appeared and shouted, "Give that back!" 🐿️
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Try adding your own emoji to show how the broccoli is feeling:  <br />
-😋 🤔 😱 😄 🗯️
+Try different visitors:<br />
+'A pigeon flapped in...' 🐦<br />
+'A goat trotted up...' 🐐<br />
+'A robot zoomed by...' 🤖
 
 </div>
 
@@ -43,9 +41,8 @@ Try adding your own emoji to show how the broccoli is feeling:  <br />
 
 ### Debugging
 
-If you get an error, check that:
-- Your whole sentence is inside single quotes like `'This is text'`{:.language-python}
-- The words someone is saying are inside double quotes `"like this"`{:.language-python}
-- You’ve closed both sets of quotes properly and haven’t missed a `'` or `"` at the end
+Check that:<br />
+- You use both kinds of quotes correctly: `' "words" '`<br />
+- You didn’t forget to close all quotes or brackets
 
 </div>
