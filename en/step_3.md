@@ -28,6 +28,7 @@ print()
 </div>
 
 <div class="c-project-output">
+<pre>
 🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮<br />
 <br />
 🧠 Ingredients:<br />
@@ -36,7 +37,7 @@ print()
  - A handful of belly button fluff 🤏<br />
  - 3 eyeballs 👁️👁️👁️<br />
  - Green slime to taste 🧪
-
+</pre>
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
