@@ -1,11 +1,17 @@
-<h2 class="c-project-heading--task">Start the story</h2>
+<h2 class="c-project-heading--task">Print a disgusting welcome</h2>
 --- task ---
-Use `print()` to set the scene for a picnic in the park.
+Use <code>print()</code> to show a welcome message for your disgusting recipe card.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">Peaceful picnic begins</h2>
+<h2 class="c-project-heading--explainer">Set the scene</h2>
 
-Let’s start by telling the computer where the kids are and what they’re doing.
+You've just been hired as the printer for a very strange restaurant.  
+Your job? To print out disgusting recipe cards for their latest menu!
+
+In Python, text is called a <strong>string</strong>. You can make Python show a string on screen using <code>print()</code>.  
+Each time you use <code>print()</code>, Python starts a new line in the output.
+
+Start by printing a welcome message for your disgusting dish.
 
 <div class="c-project-code">
 --- code ---
@@ -16,22 +22,21 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 1-2
 ---
-print('It was a sunny day at the park. 🌳')
-print('Three kids were sitting on a big picnic blanket, eating jam sandwiches. 🧺🥪')
+print('🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮')
+print()
 --- /code ---
 </div>
 
 <div class="c-project-output">
-It was a sunny day at the park. 🌳<br />
-Three kids were sitting on a big picnic blanket, eating jam sandwiches. 🧺🥪
+![Welcome output](images/step_1.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-You can try your own picnic ideas:<br />
-'crackers and cheese' 🧀, 'chocolate muffins' 🧁, 'apple slices' 🍎
+Try adding your own emojis or changing the words in your welcome message!<br />
+Some fun emoji to try: 🤢 🤮 🧠 🦠 💀 🐛 👃
 
 </div>
 
@@ -39,8 +44,7 @@ You can try your own picnic ideas:<br />
 
 ### Debugging
 
-If nothing prints out, make sure:<br />
-- Each line starts with `print()`{:.language-python}<br />
-- Your message is inside single quotes `'like this'`{:.language-python}
+- Did you forget the brackets in <code>print()</code>?<br />
+- Make sure your message is inside quotes
 
 </div>
