@@ -27,22 +27,22 @@ print("💀 WARNING: Don't eat this unless you're a zombie!")
 </div>
 
 <div class="c-project-output">
-🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮<br />
-<br />
-🧠 Ingredients:<br />
- - 1 cup of toenail clippings 🦶<br />
- - 2 rotten eggs 🥚<br />
- - A handful of belly button fluff 🤏<br />
- - 3 eyeballs 👁️👁️👁️<br />
- - Green slime to taste 🧪<br />
-<br />
-🧪 Instructions:<br />
-1. Mix the toenails and eggs in a dirty sock.<br />
-2. Sprinkle in the belly button fluff.<br />
-3. Stir in the eyeballs until they stare back at you.<br />
-4. Drizzle with slime and serve cold. ❄️<br />
-<br />
-💀 WARNING: Don't eat this unless you're a zombie!
+<pre>🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮
+
+🧠 Ingredients:
+ - 1 cup of toenail clippings 🦶
+ - 2 rotten eggs 🥚
+ - A handful of belly button fluff 🤏
+ - 3 eyeballs 👁️👁️👁️
+ - Green slime to taste 🧪
+
+🧪 Instructions:
+1. Mix the toenails and eggs in a dirty sock.
+2. Sprinkle in the belly button fluff.
+3. Stir in the eyeballs until they stare back at you.
+4. Drizzle with slime and serve cold. ❄️
+
+💀 WARNING: Don't eat this unless you're a zombie!</pre>
 </div>
 
 <div class="c-project-callout c-project-callout--tip">

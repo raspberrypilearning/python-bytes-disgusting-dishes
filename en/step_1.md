@@ -28,7 +28,7 @@ print()
 </div>
 
 <div class="c-project-output">
-![Welcome output](images/step_1.png)
+<pre>🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮</pre>
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
