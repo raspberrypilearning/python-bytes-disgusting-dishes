@@ -1,11 +1,14 @@
-<h2 class="c-project-heading--task">Add some speech</h2>
+<h2 class="c-project-heading--task">Add an ingredients heading</h2>
 --- task ---
-Make someone say something by using quotes inside your print statement.
+Use <code>print()</code> to add a heading and the first ingredient to your recipe card.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">What did they say?</h2>
+<h2 class="c-project-heading--explainer">Set the scene</h2>
 
-Use double quotes inside single quotes, to show someone speaking.
+Your restaurant menu needs a list of ingredients for each recipe card.  
+Add a heading that shows this section is about ingredients.
+
+Then add your first disgusting item — remember to use <code>print()</code> again and to include some emoji!
 
 <div class="c-project-code">
 --- code ---
@@ -13,27 +16,24 @@ Use double quotes inside single quotes, to show someone speaking.
 language: python
 filename: main.py
 line_numbers: true
-line_number_start: 1
-line_highlights: 3
+line_number_start: 3
+line_highlights: 3-4
 ---
-print('It was a sunny day at the park. 🌳')
-print('Three kids were sitting on a big picnic blanket, eating jam sandwiches. 🧺🥪')
-print('A squirrel appeared and shouted, "Give that back!" 🐿️')
+print('🧠 Ingredients:')
+print(' - 1 cup of toenail clippings 🦶')
 --- /code ---
 </div>
 
 <div class="c-project-output">
-A squirrel appeared and shouted, "Give that back!" 🐿️
+![Ingredients output](images/step_2.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Try different visitors:<br />
-'A pigeon flapped in...' 🐦<br />
-'A goat trotted up...' 🐐<br />
-'A robot zoomed by...' 🤖
+Start your ingredient lines with a dash <code>-</code> and a space, just like a real list.<br />
+You can change the ingredient to anything gross you like: 🧠 🦴 🐌
 
 </div>
 
@@ -41,8 +41,7 @@ Try different visitors:<br />
 
 ### Debugging
 
-Check that:<br />
-- You use both kinds of quotes correctly: `' "words" '`<br />
-- You didn’t forget to close all quotes or brackets
+- Did you put the ingredient inside quotes?<br />
+- Did you remember to add <code>print()</code> for each line?
 
 </div>

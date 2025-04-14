@@ -1,13 +1,14 @@
-<h2 class="c-project-heading--task">Escape the apostrophe</h2>
+<h2 class="c-project-heading--task">Add your first instructions</h2>
 --- task ---
-Add a sentence that contains an apostrophe inside speech by using an escape character.
+Use <code>print()</code> to show the first two steps for your recipe.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">Escaping confusion!</h2>
+<h2 class="c-project-heading--explainer">Set the scene</h2>
 
-If you want to use an apostrophe **inside** speech, you can escape it using a backslash `\`.
+Your disgusting dish needs some instructions so the chef knows how to prepare it.  
+Use <code>print()</code> again to add numbered steps. Start with two steps.
 
-This tells Python to treat the apostrophe as part of the text, not the end of the string.
+Each step should be on its own line. Use numbers followed by a full stop to show the order.
 
 <div class="c-project-code">
 --- code ---
@@ -15,24 +16,36 @@ This tells Python to treat the apostrophe as part of the text, not the end of th
 language: python
 filename: main.py
 line_numbers: true
-line_number_start: 4
-line_highlights: 5
+line_number_start: 10
+line_highlights: 10-12
 ---
-print("One kid's sandwich had already disappeared.")
-print('Another kid yelled, "That\'s mine!"')
+print('🧪 Instructions:')
+print('1. Mix the toenails and eggs in a dirty sock.')
+print('2. Sprinkle in the belly button fluff.')
 --- /code ---
 </div>
 
 <div class="c-project-output">
-Another kid yelled, "That's mine!"
+🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮<br />
+<br />
+🧠 Ingredients:<br />
+ - 1 cup of toenail clippings 🦶<br />
+ - 2 rotten eggs 🥚<br />
+ - A handful of belly button fluff 🤏<br />
+ - 3 eyeballs 👁️👁️👁️<br />
+ - Green slime to taste 🧪<br />
+<br />
+🧪 Instructions:<br />
+1. Mix the toenails and eggs in a dirty sock.<br />
+2. Sprinkle in the belly button fluff.
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Use `\'` inside a string to include an apostrophe without ending it too early.<br />
-For example: `'That\'s funny!'` or `'Don\'t touch that!'`
+You can change the instructions to match your own ingredients!<br />
+Make them as weird and disgusting as you like. 🧪🧦👅
 
 </div>
 
@@ -40,8 +53,8 @@ For example: `'That\'s funny!'` or `'Don\'t touch that!'`
 
 ### Debugging
 
-If you get a *SyntaxError*, check that:<br />
-- You used the backslash before the apostrophe<br />
-- All your quotes are properly paired
+- Did you remember to use quotes and <code>print()</code>?<br />
+- Make sure your numbers have a full stop after them<br />
+- Each step should be a new <code>print()</code> line
 
 </div>

@@ -1,20 +1,15 @@
-title: "Picnic Panic 🧺😲🥪"
+title: Python bytes - Disgusting Dishes
 hero_image: images/banner.png
-description: Write a short, silly story using Python print statements and emoji.
-meta_title: Python coding projects for kids and teens | Picnic Panic
-meta_description: Learn Python with the Raspberry Pi Foundation. Use print statements to write a funny picnic story full of sandwiches, surprises and emoji.
+description: Make your own disgusting recipe using print statements and emojis in Python!
+meta_title: Learn to code with Disgusting Dishes | Raspberry Pi Foundation
+meta_description: Learn Python with the Raspberry Pi Foundation. Code a recipe card that’s deliciously disgusting!
 version: 1
 listed: false
 copyedit: false
-last_tested: "2025-04-04"
+last_tested: "2025-04-14"
 steps:
-  - title: step 1
-  - title: step 2
-    completion:
-      - engaged
-  - title: step 3
-  - title: step 4
-  - title: step 5
-    completion:
-      - internal
-      - external
+  - title: step_1
+  - title: step_2
+  - title: step_3
+  - title: step_4
+  - title: step_5

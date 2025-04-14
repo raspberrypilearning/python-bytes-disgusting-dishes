@@ -1,13 +1,14 @@
-<h2 class="c-project-heading--task">Use an apostrophe</h2>
+<h2 class="c-project-heading--task">Add more gross ingredients</h2>
 --- task ---
-Print a sentence that includes an apostrophe by using double quotes to surround it.
+Use more <code>print()</code> lines to add extra ingredients to your recipe.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">Apostrophes in action</h2>
+<h2 class="c-project-heading--explainer">Set the scene</h2>
 
-Apostrophes can be useful in writing.
+One ingredient isn't enough for your strange restaurant — they want the grossest recipes around!  
+Add more <code>print()</code> lines for extra ingredients.
 
-To include an apostrophe in a string, you can surround the sentence with **double quotes** `"` instead of single quotes `'`.
+Make sure each one goes on a new line and starts with a dash <code>-</code> to keep the list format.
 
 <div class="c-project-code">
 --- code ---
@@ -15,25 +16,35 @@ To include an apostrophe in a string, you can surround the sentence with **doubl
 language: python
 filename: main.py
 line_numbers: true
-line_number_start: 4
-line_highlights: 4
+line_number_start: 5
+line_highlights: 5-9
 ---
-print("One kid's sandwich had already disappeared.")
+print(' - 2 rotten eggs 🥚')
+print(' - A handful of belly button fluff 🤏')
+print(' - 3 eyeballs 👁️👁️👁️')
+print(' - Green slime to taste 🧪')
+print()
 --- /code ---
 </div>
 
 <div class="c-project-output">
-One kid's sandwich had already disappeared.
+🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮<br />
+<br />
+🧠 Ingredients:<br />
+ - 1 cup of toenail clippings 🦶<br />
+ - 2 rotten eggs 🥚<br />
+ - A handful of belly button fluff 🤏<br />
+ - 3 eyeballs 👁️👁️👁️<br />
+ - Green slime to taste 🧪
+
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Use **double quotes** around a sentence if it includes an apostrophe.<br />
-For example:<br />
-- "That's mine!"<br />
-- "Jess's sandwich was gone."
+You can change these ingredients or add even more if you want!<br />
+Ideas: 💩 🦠 🐙 🧠 🐌
 
 </div>
 
@@ -41,8 +52,8 @@ For example:<br />
 
 ### Debugging
 
-If you get an error, check that:<br />
-- You used double quotes around the whole string<br />
-- You didn’t accidentally end the sentence too early with an apostrophe
+- Check you have quotes around each ingredient<br />
+- Make sure each line starts with <code>print()</code><br />
+- Remember to include brackets!
 
 </div>
