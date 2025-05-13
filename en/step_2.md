@@ -5,7 +5,7 @@ Use <code>print()</code> to add a heading and the first ingredient to your recip
 
 <h2 class="c-project-heading--explainer">Set the scene</h2>
 
-Your restaurant menu needs a list of ingredients for each recipe card.  
+Your restaurant recipe card needs a list of ingredients for each recipe card.  
 Add a heading that shows this section is about ingredients.
 
 Then add your first disgusting item — remember to use <code>print()</code> again and to include some emoji!
@@ -25,7 +25,10 @@ print(' - 1 cup of toenail clippings 🦶')
 </div>
 
 <div class="c-project-output">
-![Ingredients output](images/step_2.png)
+<pre>🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮
+
+🧠 Ingredients:
+ - 1 cup of toenail clippings 🦶</pre>
 </div>
 
 <div class="c-project-callout c-project-callout--tip">

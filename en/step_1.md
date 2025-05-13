@@ -28,7 +28,7 @@ print()
 </div>
 
 <div class="c-project-output">
-![Welcome output](images/step_1.png)
+<pre>🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮</pre>
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
@@ -36,7 +36,9 @@ print()
 ### Tip
 
 Try adding your own emojis or changing the words in your welcome message!<br />
-Some fun emoji to try: 🤢 🤮 🧠 🦠 💀 🐛 👃
+Some fun emoji to try: 🤢 🤮 🧠 🦠 💀 🐛 👃<br />
+Add your own emoji by pressing `⊞ Win` + `.` on Windows or `⌘ Cmd` + `Ctrl` + `Space` on macOS. 
+
 
 </div>
 

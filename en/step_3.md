@@ -28,15 +28,14 @@ print()
 </div>
 
 <div class="c-project-output">
-🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮<br />
-<br />
-🧠 Ingredients:<br />
- - 1 cup of toenail clippings 🦶<br />
- - 2 rotten eggs 🥚<br />
- - A handful of belly button fluff 🤏<br />
- - 3 eyeballs 👁️👁️👁️<br />
- - Green slime to taste 🧪
+<pre>🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮
 
+🧠 Ingredients:
+ - 1 cup of toenail clippings 🦶
+ - 2 rotten eggs 🥚
+ - A handful of belly button fluff 🤏
+ - 3 eyeballs 👁️👁️👁️
+ - Green slime to taste 🧪</pre>
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
