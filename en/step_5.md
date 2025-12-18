@@ -1,6 +1,9 @@
 <h2 class="c-project-heading--task">Finish the recipe and add a warning</h2>
+
 --- task ---
+
 Print the last steps of your recipe and a final warning message using double quotes.
+
 --- /task ---
 
 <h2 class="c-project-heading--explainer">Set the scene</h2>
@@ -19,10 +22,12 @@ line_numbers: true
 line_number_start: 13
 line_highlights: 13-16
 ---
+
 print('3. Stir in the eyeballs until they stare back at you.')
 print('4. Drizzle with slime and serve cold. ❄️')
 print()
 print("💀 WARNING: Don't eat this unless you're a zombie!")
+
 --- /code ---
 </div>
 

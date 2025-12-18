@@ -1,6 +1,9 @@
 <h2 class="c-project-heading--task">Add an ingredients heading</h2>
+
 --- task ---
+
 Use <code>print()</code> to add a heading and the first ingredient to your recipe card.
+
 --- /task ---
 
 <h2 class="c-project-heading--explainer">Set the scene</h2>
@@ -19,8 +22,10 @@ line_numbers: true
 line_number_start: 3
 line_highlights: 3-4
 ---
+
 print('🧠 Ingredients:')
 print(' - 1 cup of toenail clippings 🦶')
+
 --- /code ---
 </div>
 

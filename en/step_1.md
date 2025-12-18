@@ -1,6 +1,9 @@
 <h2 class="c-project-heading--task">Print a disgusting welcome</h2>
+
 --- task ---
+
 Use <code>print()</code> to show a welcome message for your disgusting recipe card.
+
 --- /task ---
 
 <h2 class="c-project-heading--explainer">Set the scene</h2>
@@ -22,8 +25,10 @@ line_numbers: true
 line_number_start: 1
 line_highlights: 1-2
 ---
+
 print('🤢 Welcome to the DISGUSTING DISHES cookbook! 🤮')
 print()
+
 --- /code ---
 </div>
 
