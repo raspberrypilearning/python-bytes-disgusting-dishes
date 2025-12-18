@@ -1,6 +1,9 @@
 <h2 class="c-project-heading--task">Add more gross ingredients</h2>
+
 --- task ---
+
 Use more <code>print()</code> lines to add extra ingredients to your recipe.
+
 --- /task ---
 
 <h2 class="c-project-heading--explainer">Set the scene</h2>
@@ -19,11 +22,13 @@ line_numbers: true
 line_number_start: 5
 line_highlights: 5-9
 ---
+
 print(' - 2 rotten eggs 🥚')
 print(' - A handful of belly button fluff 🤏')
 print(' - 3 eyeballs 👁️👁️👁️')
 print(' - Green slime to taste 🧪')
 print()
+
 --- /code ---
 </div>
 

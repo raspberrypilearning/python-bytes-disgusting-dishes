@@ -1,6 +1,9 @@
 <h2 class="c-project-heading--task">Add your first instructions</h2>
+
 --- task ---
+
 Use <code>print()</code> to show the first two steps for your recipe.
+
 --- /task ---
 
 <h2 class="c-project-heading--explainer">Set the scene</h2>
@@ -19,9 +22,11 @@ line_numbers: true
 line_number_start: 10
 line_highlights: 10-12
 ---
+
 print('🧪 Instructions:')
 print('1. Mix the toenails and eggs in a dirty sock.')
 print('2. Sprinkle in the belly button fluff.')
+
 --- /code ---
 </div>
 
