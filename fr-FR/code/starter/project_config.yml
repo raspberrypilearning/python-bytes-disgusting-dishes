@@ -1,0 +1,4 @@
+name: "Python bytes - Plats dégoûtants"
+identifier: "python-bytes-disgusting-dishes"
+type: python
+build: true
