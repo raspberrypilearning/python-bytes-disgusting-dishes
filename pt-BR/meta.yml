@@ -1,0 +1,20 @@
+title: Python bytes - Disgusting dishes
+hero_image: images/banner.png
+description: Make your own disgusting recipe using print statements and emojis in Python!
+meta_title: Learn to code with Disgusting Dishes | Raspberry Pi Foundation
+meta_description: Learn Python with the Raspberry Pi Foundation. Code a recipe card that’s deliciously disgusting!
+version: 1
+listed: true
+copyedit: false
+last_tested: "2025-04-14"
+steps:
+  - title: step_1
+  - title: step_2
+    completion:
+      - engaged
+  - title: step_3
+  - title: step_4
+  - title: step_5
+    completion:
+      - internal
+      - external
