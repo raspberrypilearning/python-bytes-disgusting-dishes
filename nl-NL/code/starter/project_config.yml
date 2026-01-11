@@ -1,0 +1,4 @@
+name: "Python bytes - Walgelijke gerechten"
+identifier: "python-bytes-disgusting-dishes"
+type: python
+build: true
