@@ -1,8 +1,9 @@
+---
 title: Python bytes - Plats dégoûtants
 hero_image: images/banner.png
 description: Crée ta propre recette dégoûtante en utilisant des instructions print et des emojis en Python !
-meta_title: Apprendre à coder avec Plats dégoûtants | Raspberry Pi Foundation
-meta_description: Apprends Python avec la Raspberry Pi Foundation. Crée une fiche de recette délicieusement dégoûtante !
+meta_title: Learn to code with Disgusting Dishes | Raspberry Pi Foundation
+meta_description: Learn Python with the Raspberry Pi Foundation. Code a recipe card that’s deliciously disgusting!
 version: 1
 listed: true
 copyedit: false

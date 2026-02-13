@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Imprimer un accueil dégoûtant</h2>
 
-\--- task ---
+--- task ---
 
 Utilise <code>print()</code> pour afficher un message de bienvenue pour ta fiche de recette dégoûtante.
 
-\--- /task ---
+--- /task ---
 
 <h2 class="c-project-heading--explainer">Planter le décor</h2>
 
@@ -29,7 +29,7 @@ line_highlights: 1-2
 print('🤢 Bienvenue dans le livre de recettes PLATS DÉGOÛTANTS ! 🤮')
 print()
 
-\--- /code ---
+--- /code ---
 
 </div>
 

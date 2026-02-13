@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Ajouter plus d'ingrédients dégoûtants</h2>
 
-\--- task ---
+--- task ---
 
 Utilise plus de lignes <code>print()</code> pour ajouter des ingrédients supplémentaires à ta recette.
 
-\--- /task ---
+--- /task ---
 
 <h2 class="c-project-heading--explainer">Planter le décor</h2>
 
@@ -29,7 +29,7 @@ print(' - 3 globes oculaires 👁️👁️👁️')
 print(' - Slime vert à déguster 🧪')
 print()
 
-\--- /code ---
+--- /code ---
 
 </div>
 
