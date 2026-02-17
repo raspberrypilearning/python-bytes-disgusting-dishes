@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Print een weerzinwekkende welkomstboodschap</h2>
 
-\--- task ---
+--- task ---
 
 Gebruik <code>print()</code> om een welkomstbericht voor je walgelijke receptenkaart weer te geven.
 
-\--- /task ---
+--- /task ---
 
 <h2 class="c-project-heading--explainer">Schets de situatie</h2>
 
@@ -29,7 +29,7 @@ line_highlights: 1-2
 print('🤢 Welkom bij het kookboek met walgelijke gerechten!' 🤮')
 print()
 
-\--- /code ---
+--- /code ---
 
 </div>
 

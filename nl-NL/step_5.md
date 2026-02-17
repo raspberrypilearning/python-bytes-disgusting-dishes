@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Maak het recept af en voeg een waarschuwing toe</h2>
 
-\--- task ---
+--- task ---
 
 Print de laatste stappen van je recept en een afsluitende waarschuwing tussen dubbele aanhalingstekens.
 
-\--- /task ---
+--- /task ---
 
 <h2 class="c-project-heading--explainer">Schets de situatie</h2>
 
@@ -28,7 +28,7 @@ print('4. Besprenkel met slijm en serveer koud. ❄️')
 print()
 print("💀 WAARSCHUWING: Eet dit niet, tenzij je 'n zombie bent!")
 
-\--- /code ---
+--- /code ---
 
 </div>
 
@@ -94,3 +94,14 @@ transition: background-color 0.2s;
 Geef feedback </a>
 
 </div>
+
+***
+Dit project werd vertaald door vrijwilligers:
+
+[name]
+
+[name]
+
+[name]
+
+Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
