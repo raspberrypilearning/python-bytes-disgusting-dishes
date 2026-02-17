@@ -10,9 +10,9 @@ print(' - Slime vert à déguster 🧪')
 print()
 
 print('🧪 Instructions :')
-print('1. Mélangez les ongles d\'orteils et les œufs dans une chaussette sale.')
+print('1. Mélangez les ongles d'orteils et les œufs dans une chaussette sale.')
 print('2. Saupoudrez de peluches de nombril.')
-print('3. Incorporez les globes oculaires jusqu\'à ce qu\'ils vous fixent du regard.')
+print('3. Incorporez les globes oculaires jusqu'à ce qu'ils vous fixent du regard.')
 print('4. Arrosez de slime et servez froid. ❄️')
 print()
 
