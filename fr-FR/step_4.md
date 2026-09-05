@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Ajouter tes premières instructions</h2>
 
---- task ---
+\--- task ---
 
 Utilise <code>print()</code> pour afficher les deux premières étapes de ta recette.
 
---- /task ---
+\--- /task ---
 
 <h2 class="c-project-heading--explainer">Planter le décor</h2>
 
@@ -27,7 +27,7 @@ print('🧪 Instructions :')
 print('1. Mélangez les ongles d'orteils et les œufs dans une chaussette sale.')
 print('2. Saupoudrez de peluches de nombril.')
 
---- /code ---
+\--- /code ---
 
 </div>
 
