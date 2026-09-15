@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Voeg je eerste instructies toe</h2>
 
---- task ---
+\--- task ---
 
 Gebruik <code>print()</code> om de eerste twee stappen van je recept weer te geven.
 
---- /task ---
+\--- /task ---
 
 <h2 class="c-project-heading--explainer">Schets de situatie</h2>
 
@@ -27,7 +27,7 @@ print('🧪 Instructies:')
 print('1. Meng de teennagels en eieren in een vuile sok.)
 print('2. Strooi er wat navelpluis in.')
 
---- /code ---
+\--- /code ---
 
 </div>
 
