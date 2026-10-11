@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Voeg meer gore ingrediënten toe</h2>
 
---- task ---
+\--- task ---
 
 Gebruik meer <code>print()</code> regels om extra ingrediënten aan je recept toe te voegen.
 
---- /task ---
+\--- /task ---
 
 <h2 class="c-project-heading--explainer">Schets de situatie</h2>
 
@@ -29,7 +29,7 @@ print(' - 3 oogballen 👁️👁️👁️')
 print(' - Groen slijm naar smaak 🧪')
 print()
 
---- /code ---
+\--- /code ---
 
 </div>
 
