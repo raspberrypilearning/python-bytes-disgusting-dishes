@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Ajouter un titre d'ingrédient</h2>
 
---- task ---
+\--- task ---
 
 Utilise <code>print()</code> pour ajouter un titre et le premier ingrédient à ta fiche de recette.
 
---- /task ---
+\--- /task ---
 
 <h2 class="c-project-heading--explainer">Planter le décor</h2>
 
@@ -26,7 +26,7 @@ line_highlights: 3-4
 print('🧠 Ingrédients :')
 print(' - 1 tasse d'ongles d'orteils 🦶')
 
---- /code ---
+\--- /code ---
 
 </div>
 
