@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Voeg een koptekst voor ingrediënten toe</h2>
 
---- task ---
+\--- task ---
 
 Gebruik <code>print()</code> om een kop en het eerste ingrediënt aan je receptkaart toe te voegen.
 
---- /task ---
+\--- /task ---
 
 <h2 class="c-project-heading--explainer">Schets de situatie</h2>
 
@@ -26,7 +26,7 @@ line_highlights: 3-4
 print('🧠 Ingrediënten:')
 print(' - 1 kopje teennagelknipsels 🦶')
 
---- /code ---
+\--- /code ---
 
 </div>
 
