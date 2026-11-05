@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Terminer la recette et ajouter un avertissement</h2>
 
---- task ---
+\--- task ---
 
 Affiche les dernières étapes de ta recette et un message d'avertissement final entre guillemets.
 
---- /task ---
+\--- /task ---
 
 <h2 class="c-project-heading--explainer">Planter le décor</h2>
 
@@ -28,7 +28,7 @@ print('4. Arrosez de slime et servez froid. ❄️')
 print()
 print("💀 ATTENTION : ne mangez pas ça à moins que vous soyez un zombie !")
 
---- /code ---
+\--- /code ---
 
 </div>
 
@@ -94,13 +94,3 @@ transition: background-color 0.2s;
 Donner ton avis </a>
 
 </div>
-
-***
-
-Ce projet a été traduit par des bénévoles:
-
-Jonathan Vannieuwkerke
-
-Michel Arnols
-
-Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur [rpf.io/translate](https://rpf.io/translate).
