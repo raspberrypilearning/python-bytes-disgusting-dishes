@@ -1,0 +1,20 @@
+title: Python bytes - Огидні страви
+hero_image: images/banner.png
+description: Створи власний огидний рецепт у Python за допомогою команди <0>print()</0> та емодзі!
+meta_title: Навчись кодувати разом із «Огидними стравами» | Raspberry Pi Foundation
+meta_description: Вивчай Python разом із Raspberry Pi Foundation. Створи картку огидно-апетитного рецепта!
+version: 1
+listed: true
+copyedit: false
+last_tested: "2025-04-14"
+steps:
+  - title: step_1
+  - title: step_2
+    completion:
+      - engaged
+  - title: step_3
+  - title: step_4
+  - title: step_5
+    completion:
+      - internal
+      - external
